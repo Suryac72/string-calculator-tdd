@@ -17,10 +17,6 @@ Run all tests:
 npm test
 ```
 
-Run tests in watch mode:
-```bash
-npm run test:watch
-```
 
 ## Implementation Details
 
